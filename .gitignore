@@ -1,2 +1,5 @@
 # Virtual environment
 .venv/
+
+# Supplementary data files (available at gpstextbook.com)
+supplementary-data/
