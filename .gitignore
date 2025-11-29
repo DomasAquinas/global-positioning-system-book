@@ -3,3 +3,6 @@
 
 # Supplementary data files (available at gpstextbook.com)
 supplementary-data/
+
+# Cached Python data
+__pycache__/
